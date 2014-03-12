@@ -1,0 +1,2 @@
+'.editor':
+  'ctrl-u': 'deconsole:remove-console-logs'

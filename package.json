@@ -1,0 +1,27 @@
+{
+  "name": "atom-deconsole",
+  "description": "Automatically remove console.* calls from your JS files",
+  "version": "0.0.0",
+  "main": "index.js",
+  "activtionEvents": [
+    "deconsole:remove-console-logs"
+  ],
+  "dependencies": {
+    "falafel": "^0.3.1",
+    "deconsole": "^0.1.0"
+  },
+  "scripts": {},
+  "engines": {
+    "atom": "*"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "homepage": "http://hughsk.github.io/atom-deconsole",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/atom-deconsole"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/atom-deconsole/issues"
+  }
+}
