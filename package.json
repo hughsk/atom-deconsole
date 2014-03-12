@@ -1,7 +1,7 @@
 {
   "name": "atom-deconsole",
   "description": "Automatically remove console.* calls from your JS files",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "activtionEvents": [
     "deconsole:remove-console-logs"
